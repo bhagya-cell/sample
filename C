@@ -1,0 +1,2 @@
+ file C
+copy the file branch 1 to branch 2 
